@@ -30,8 +30,8 @@ public:
 			std::cout << "동물원이 가득 차 동물을 추가할 수 없습니다." << std::endl;
 		}
 		else {
-			for (int i = 0; i < 9; i++) {
-				animals[i + 1] = animals[i];
+			for (int i = animal_count; i > 0; i--) {
+				animals[i] = animals[i - 1];
 			}
 			animals[0] = animal;
 			animal_count++;
@@ -47,11 +47,11 @@ public:
 	void performActions()
 	{
 		for (int i = 0; i < 10; i++) {
-
-			animals[i]->makeSound();
-			animals[i]->move();
+			if (animals[i] != nullptr) {
+				animals[i]->makeSound();
+				animals[i]->move();
+			}			
 		}
-
 	}
 
 	// Zoo 소멸자
