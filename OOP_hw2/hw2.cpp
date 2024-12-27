@@ -145,6 +145,16 @@ Animal* createRandomAnimal()
 
 int main()
 {
+	Dog dog;
+	Cat cat;
+	Cow cow;
+	Animal* pAnimal_arr[3] = { &dog, &cat, &cow };
+	Animal* pAnimal;
+	for (int i = 0; i < 3; i++) {
+		pAnimal = pAnimal_arr[i];
+		pAnimal->makeSound();
+	}
+	
 	srand(static_cast<unsigned int>(time(0)));// 난수 초기화, time(0)는 현재 시간을 시드로 한다는 의미
 
 	Zoo zoo;

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\82105\\Desktop\\C\u002B\u002B Study\\OOP_hw2\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\Hw2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3991D0E-1E96-4D71-8C8F-94CBD0441DD4}|OOP_hw2\\OOP_hw2.vcxproj|C:\\Users\\82105\\Desktop\\C\u002B\u002B Study\\OOP_hw2\\OOP_hw2\\hw2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D3991D0E-1E96-4D71-8C8F-94CBD0441DD4}|OOP_hw2\\OOP_hw2.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\Hw2\\OOP_hw2\\hw2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D3991D0E-1E96-4D71-8C8F-94CBD0441DD4}|OOP_hw2\\OOP_hw2.vcxproj|solutionrelative:OOP_hw2\\hw2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -29,18 +29,17 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "ViewState": "AQIAAAoAAAAAAAAAAAAcwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-26T06:10:52.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T06:10:52.351Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "hw2.cpp",
-              "DocumentMoniker": "C:\\Users\\82105\\Desktop\\C\u002B\u002B Study\\OOP_hw2\\OOP_hw2\\hw2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Hw2\\OOP_hw2\\hw2.cpp",
               "RelativeDocumentMoniker": "OOP_hw2\\hw2.cpp",
-              "ToolTip": "C:\\Users\\82105\\Desktop\\C\u002B\u002B Study\\OOP_hw2\\OOP_hw2\\hw2.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Hw2\\OOP_hw2\\hw2.cpp",
               "RelativeToolTip": "OOP_hw2\\hw2.cpp",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJwAAAAJAAAA",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-26T06:10:32.045Z",
               "EditorCaption": ""
